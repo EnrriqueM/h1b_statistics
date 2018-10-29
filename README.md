@@ -41,4 +41,3 @@ Each line of the `top_10_states.txt` file contains these fields in this order:
 2. __`NUMBER_CERTIFIED_APPLICATIONS`__: Number of applications that have been certified for work in that state. An application is considered certified if it has a case status of `Certified`
 3. __`PERCENTAGE`__: % of applications that have been certified in that state compared to total number of certified applications regardless of state.
 
-Depending on the input (e.g., see the example below), there may be fewer than 10 lines in each file. There, however, should not be more than 10 lines in each file. In case of ties, only list the top 10 based on the sorting instructions given above.

@@ -16,7 +16,7 @@ This program calculates two metrics: **Top 10 Occupations** and **Top 10 States*
 
 # Input Dataset
 
-Used the Excel files found in this Google drive [folder](https://drive.google.com/drive/folders/1Nti6ClUfibsXSQw5PUIWfVGSIrpuwyxf?usp=sharing).
+Download the Excel files found in this Google drive [folder](https://drive.google.com/drive/folders/1Nti6ClUfibsXSQw5PUIWfVGSIrpuwyxf?usp=sharing).
 
 
 # Instructions
